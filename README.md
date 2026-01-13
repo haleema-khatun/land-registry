@@ -3,10 +3,6 @@
 
 **Land Registry System** is a simple **decentralized land registry smart contract** built using **Solidity**. It provides a foundation for recording and managing land ownership on a blockchain — ensuring **transparency, immutability, and security** of land record data.
 
-> This repository currently contains:
-> ✔️ `landregistry.sol` — core Solidity smart contract for the land registry.([GitHub][1])
-
----
 
 ## 📌 Project Overview
 
@@ -28,7 +24,6 @@ While the contract in this repo is minimal, typical capabilities of a land regis
 * 🔁 **Transfer Ownership** – Allow secure transfer of land rights
 * 📜 **Immutable Records** – Once stored on the blockchain, records cannot be altered
 
-*(Extend features in the future — e.g., access control, verification, price tracking.)*
 
 ---
 
@@ -53,7 +48,6 @@ This project is built with:
  ┣ 📄 README.md             # Project documentation
 ```
 
-*(You can expand structure later with tests, deployment scripts, frontend, etc.)*([GitHub][1])
 
 ---
 
